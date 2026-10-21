@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ideation Lite"
+  short_description: "Planifica, aprueba, ejecuta y verifica por CLI"
+  default_prompt: "Usa $ideation-lite para evaluar mi tarea, proponer un plan y esperar mi aprobacion antes de ejecutarlo."
+policy:
+  allow_implicit_invocation: true
